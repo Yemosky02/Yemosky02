@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Yemosky02
+- 👋 Hi, I’m yemi
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning java
 
 <!---
 Yemosky02/Yemosky02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
